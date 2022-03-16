@@ -1,0 +1,14 @@
+.panel-default > .panel-heading-custom {
+    background: #f5826e ; color: #fff;
+}
+
+.jumbotron {
+    background-image: url("images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(243, 182, 131);
+  }
+  .body {
+    font: "Consolas";
+    background-color: #471924;
+  }
